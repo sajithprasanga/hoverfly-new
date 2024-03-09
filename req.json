@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "schemaVersion": "v5"
+  },
+  "data": {
+    "pairs": [
+      {
+        "request": {
+          "method":[{"rawMethod": "GET"}],  "path": [
+            {
+              "rawPath": "/api/data1"
+            }
+          ]
+        },
+        "response": {
+          "status": 200,
+          "body": "{\"key\": \"value\"}",
+          "encodedBody": false
+        }
+      }
+    ]
+  }
+}
